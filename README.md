@@ -56,7 +56,7 @@ SARIMA(1,1,4)(0,0,0)[12] con AIC = -3470.685
 
 ## 📌 Consideraciones
 
-> Este análisis es académico y no constituye una recomendación financiera. Toda decisión de inversión debe considerar el perfil de riesgo, el contexto regulatorio y las condiciones del mercado.
+> Este análisis es académico y no constituye una recomendación financiera.
 
 ---
 
